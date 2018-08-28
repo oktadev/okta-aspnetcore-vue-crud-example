@@ -2,7 +2,7 @@
 
 This example shows how to build a basic CRUD application with ASP.NET Core and Vue.js
 
-Please read [Build a Simple CRUD App with ASP.NET Core and Vue] to see how this app was created.
+Please read [Build a Simple CRUD App with ASP.NET Core and Vue](https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore) to see how this app was created.
 
 ## Help
 
